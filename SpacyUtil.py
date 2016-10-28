@@ -2,6 +2,8 @@ import logging
 
 from spacy.en import English
 
+__author__ = 'shashank'
+
 
 class SpacyNlpUtil:
     nlp = None
