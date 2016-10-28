@@ -6,6 +6,6 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 ```
-[Spacy](https://spacy.io)
+[Spacy](https://spacy.io/)
 Word2vec vectors trained on Wikipedia data
 ```
