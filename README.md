@@ -6,6 +6,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 * [Spacy](https://spacy.io/)
+* [Networkx](https://networkx.github.io/)
 * Word2vec vectors trained on Wikipedia data
 * Stopwords and topic-file have been added to repository
 
